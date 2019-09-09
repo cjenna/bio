@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(225, 229, 232);
+	font-family: "Questrial", sanserif;
+}
+
+h3 {
+	font-family: "Josefin Sans", sanserif;
+	color: rgb(32, 94, 124);
+}
+
+.fancy {
+    font-family: "Josefin Sans", sanserif;
+	color: rgb(255, 255, 255);
+    background-color: rgb(32, 94, 124);
+}
+
+.pad {
+	margin-bottom: 35px;
+}
+
+.card {
+	text-align: right;
+	float: bottom;
+	margin-top: 60px;
+	margin-bottom: 10px;
+}
+
+img {
+	float: right;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
